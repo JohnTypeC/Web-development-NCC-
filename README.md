@@ -1,2 +1,2 @@
-# Web-development-NCC-
+# Web-development-NCC
 class assignments
