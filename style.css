@@ -1,0 +1,152 @@
+@import url("https://fonts.googleapis.com/css2?family=Allura&family=Kalam:wght@300;400;700&family=Poppins&family=Sacramento&display=swap");
+
+body {
+  color: #40514e;
+  margin: 0;
+  text-align: center;
+  font-family: "Merriweather", serif;
+  background-color: #eaf6f6;
+}
+
+h1 {
+  color: #07776b;
+  margin: 40px 0;
+  font-family: "Sacramento", cursive;
+  font-size: 4rem;
+}
+
+h2 {
+  font-family: "poppins", cursive;
+  font-size: 2rem;
+  color: #07776b;
+  font-weight: 400;
+  margin: 25px;
+}
+
+.head {
+  font-family: "sacramento", cursive;
+  font-size: 2.5rem;
+  color: #07776b;
+  font-weight: 400;
+  margin: 25px;
+}
+
+h3 {
+  font-family: "Montserrat", sans-serif;
+  color: #148c8c;
+}
+P {
+  line-height: 2;
+  word-spacing: 5px;
+}
+
+hr {
+  border: dotted 8px;
+  width: 6%;
+  border-bottom: none;
+  color: #07776b;
+  margin: 100px auto;
+}
+a {
+  margin: 20px 30px;
+  color: #fff;
+  text-decoration: none;
+}
+a:hover {
+  color: #eaf6f6;
+}
+
+.copyright {
+  font-size: 0.7rem;
+  color: #eaf6f6;
+  padding-top: 30px;
+}
+.ppkp {
+  width: 30%;
+  margin: auto;
+}
+
+.top-container {
+  background-size: auto;
+  position: relative;
+  padding-top: 100px;
+}
+
+.mountain {
+  width: 100%;
+}
+
+.skill-row {
+  text-align: left;
+  margin: 100px auto 100px auto;
+  width: 50%;
+}
+
+.coding {
+  width: 20%;
+  float: left;
+  margin-right: 30px;
+}
+
+.beer {
+  width: 20%;
+  float: right;
+  margin-left: 30px;
+}
+.beerch {
+  padding: 30px 0 0 0;
+}
+.DW {
+  padding: 10px 0 0 0;
+}
+
+.middle-container {
+  margin: 100px auto;
+}
+
+.profile img {
+  width: 200px;
+  border: 1rem solid rgba(229, 230, 232, 0.8);
+  border-radius: 50%;
+}
+
+.bottom-container {
+  background-color: #148c8c;
+  padding: 50px 0;
+}
+
+.contactme {
+  padding: 50px;
+  width: 35%;
+  margin: auto;
+}
+
+.btn {
+  background: #148c8c;
+  -webkit-border-radius: 5;
+  -moz-border-radius: 5;
+  border-radius: 9px;
+  font-family: "poppins", sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #077768;
+  text-decoration: none;
+  transform: scale(0.5);
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 350px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
